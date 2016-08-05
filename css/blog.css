@@ -1,0 +1,103 @@
+.dancing{
+	font-size: 180%;
+	margin: 1.5%;
+}
+
+.menu{
+	font-size: 100%;
+	padding: 1% 0 1% 0; 
+}
+
+.boton{
+	margin: 5%;
+}
+
+
+.may{
+	text-transform: uppercase;
+}
+
+.foto{
+	margin: 5%;
+	padding: 0.5%;
+	height: 50%;
+}
+
+.fototexto{
+	padding: 5%;
+	margin: 5%;
+	background-color: #BBBBBB;
+}
+.grunge{
+	background: url(../img/textura_2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+	width:100%;
+}
+.brgr{
+	background: url(../img/grunge_wall.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:200px;
+	width: 100%
+}
+.blog{
+	margin:40px;
+}
+
+.contactar{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+}
+
+.contactar form{
+	margin-left: 7%;
+}
+
+.contac{
+	margin: 4% 1% 2% 9%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.cuadro{
+	border: solid 1px #bbb;
+	width: 35%;
+	margin: 2%;
+	padding: 0.5%;
+}
+
+.cuadro input {
+	margin-left: 2%;
+}
+
+.cuadro textarea {
+	margin-left: 5%;
+}
+
+.bloque{
+	margin-bottom: 15%;
+}
+
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
+}
+
+.enviar{
+	background: #052655;
+	padding: 1%;
+    width: 36%;
+    margin-left: 2%;
+	display: inline-block;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     padding: 1% 0 1.5% 0;
+}

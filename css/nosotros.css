@@ -1,0 +1,147 @@
+.dancing{
+	font-size: 180%;
+	margin: 1.5%;
+}
+
+.menu{
+	font-size: 100%;
+	padding: 1% 0 1% 0; 
+}
+
+.boton{
+	margin: 5%;
+}
+
+.dance_7{
+	background: url(../img/dance_7.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	width: 100%;
+	height: 50%;
+}
+
+.may{
+	text-transform: uppercase;
+}
+
+.transparente{
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 6% 30%;
+	padding: 50px; 
+	margin-bottom: 100px;
+	width: 35%;
+}
+
+.transparente h2{
+	margin: 2%;
+}
+
+.pilares{
+	align-items: center;
+	justify-content: center;
+}
+.cubos{
+	background: url(../img/cubes.png);
+	height: auto;
+}
+
+.pl{
+	padding: 30% 8% 30% 0;
+	margin-right: 20%;
+}
+
+.raya{
+	border-bottom: solid gray 2px;
+	font-size: 150%;
+	padding-bottom: 3%;
+}
+
+.pilar{
+	padding-top: 3%;
+}
+.prf{
+	margin: 3% 2% 3% 0;
+	font-weight: bold;
+	font-size: 150%;
+}
+.profesores{
+	margin: 5%;
+	padding: 5%;
+	height: 200px;
+	overflow: hidden;
+	max-width: 100%;
+}
+
+.dwn{
+	margin-bottom: 80px;
+}
+.fins{
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+	margin:100px 0px;
+}
+
+.cp h4{
+	margin-left: 10%;
+}
+
+.cp p{
+	margin-left: 10%;
+}
+.contactar{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+}
+
+.contactar form{
+	margin-left: 7%;
+}
+
+.contac{
+	margin: 4% 1% 2% 9%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.cuadro{
+	border: solid 1px #bbb;
+	width: 35%;
+	margin: 2%;
+	padding: 0.5%;
+}
+
+.cuadro input {
+	margin-left: 2%;
+}
+
+.cuadro textarea {
+	margin-left: 5%;
+}
+
+.bloque{
+	margin-bottom: 15%;
+}
+
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
+}
+
+.enviar{
+	background: #052655;
+	padding: 1%;
+    width: 36%;
+    margin-left: 2%;
+	display: inline-block;
+}
+
+footer{
+	background: #05224A;
+}
+
+.pie{
+     padding: 1% 0 1.5% 0;
+}

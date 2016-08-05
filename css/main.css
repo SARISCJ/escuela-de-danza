@@ -1,0 +1,180 @@
+body,html{
+	width:100%;
+	height:100%;
+}
+
+.dancing{
+	font-size: 180%;
+	margin: 3%;
+}
+
+.menu{
+	width: 100%;
+	font-size: 100%;
+	margin: 3% auto;
+}
+
+.boton{
+	margin: 5%;
+}
+
+.dance_1{
+	background-image: url("../img/dance_1.jpg");
+	background-repeat: no-repeat;
+	height: 350px;
+	padding: 5%;
+}
+
+.studio{
+	font-size: 550%;
+}
+
+.textostudio {
+	width: 23%;
+	height: 80%;
+	font-size: 120%;
+}
+
+.inscribete{
+	background-color: #010D1A;
+	padding: 1% 3%;
+	border-radius: 3%;
+	display: inline-block;
+	margin: 2%;
+}
+
+.class-offer{
+	background-image: url("../img/textura_2.jpg");
+	height: 40%;
+	padding: 5%;
+}
+
+.class-offer p{
+	font-family:Latolight;
+	font-size: 140%;
+	width: 52%;
+	display: inline-block;
+}
+
+.class-offer img{
+	width:150px;
+	margin: 0 auto;
+	display: block;
+}
+
+.class-offer a{
+	background-color: #192951;
+	border-radius: 4%;
+	padding: 1.5% 5.5%;
+}
+
+.dance-teachers{
+	position: relative;
+}
+
+.prof1{
+	background:url("../img/instructor_4.jpg");
+	width: 100%;
+	height: 310px;
+	background-size: cover;
+	border: 2px solid #03152C;
+}
+
+.prof2{
+	background:url("../img/profesor_9.jpg");
+	width: 100%;
+	height: 310px;
+	background-size: cover;
+	border: 2px solid #03152C;
+}
+
+.textoinstruc{
+	background-color: #192951;
+	position: absolute;
+	left:30%;
+	width: 40%;
+	bottom: 0;
+	padding: 2%;
+	border-radius: 4%;
+}
+
+.poema1{
+	background-image: url("../img/textura_2.jpg");	
+}
+
+.poema1 p{
+	font-family:Latolight;
+	font-size: 250%;
+	font-style: italic;
+	padding: 6%;
+	display: inline-block;
+	margin: 5%;
+}
+
+.direccion{
+	width: 78%;
+}
+
+.ubicacion{
+	background: #05224A;
+	padding: 5%;
+}
+
+.ubicacion h3{
+	font-size: 150%;
+}
+
+.contactar{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+}
+
+.contactar form{
+	margin-left: 7%;
+}
+
+.contac{
+	margin: 4% 1% 2% 9%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.cuadro{
+	border: solid 1px #bbb;
+	width: 35%;
+	margin: 2%;
+	padding: 0.5%;
+}
+
+.cuadro input {
+	margin-left: 2%;
+}
+
+.cuadro textarea {
+	margin-left: 5%;
+}
+
+.bloque{
+	margin-bottom: 15%;
+}
+
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
+}
+
+.enviar{
+	background: #052655;
+	padding: 1%;
+    width: 36%;
+    margin-left: 2%;
+	display: inline-block;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     padding: 1% 0 1.5% 0;
+}

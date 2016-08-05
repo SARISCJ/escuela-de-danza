@@ -1,0 +1,135 @@
+.dancing{
+	font-size: 180%;
+	margin: 1.5%;
+}
+
+.menu{
+	font-size: 100%;
+	padding: 1% 0 1% 0; 
+}
+
+.boton{
+	margin: 5%;
+}
+
+.fongr{
+	background: url(../img/old_wall.png);
+	padding: 5%;
+
+}
+.may{
+	text-transform: uppercase;
+}
+.ofclas{
+	font-weight: bold;
+	margin: 1%;
+}
+.cartel{
+   width: 300px;
+   height: 500px;
+   margin:20px;
+}
+.ballet{
+	background: url(../img/dance_12.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.modern{
+	background: url(../img/breakdance.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.jazz{
+	background: url(../img/lirical-jazz.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.belly{
+	background: url(../img/arabe.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.kids{
+	background: url(../img/little.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.yoga{
+	background: url(../img/yoga.jpg);
+	background-position: center top;
+	overflow: hidden;
+	max-width: 80%;
+	background-size: cover;
+}
+.cristal{
+	background-color: rgba(0, 0, 0, 0.6);
+	margin: 80% 4%;
+	padding: 10% 0;
+}
+.dwn{
+	margin-bottom: 80px;
+}
+.contactar{
+	background: url(../img/shoes_1.jpg);
+	background-position: right center;
+	background-repeat: no-repeat;
+	height:500px;
+}
+
+.contactar form{
+	margin-left: 7%;
+}
+
+.contac{
+	margin: 4% 1% 2% 9%;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.cuadro{
+	border: solid 1px #bbb;
+	width: 35%;
+	margin: 2%;
+	padding: 0.5%;
+}
+
+.cuadro input {
+	margin-left: 2%;
+}
+
+.cuadro textarea {
+	margin-left: 5%;
+}
+
+.bloque{
+	margin-bottom: 15%;
+}
+
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
+}
+
+.enviar{
+	background: #052655;
+	padding: 1%;
+    width: 36%;
+    margin-left: 2%;
+	display: inline-block;
+}
+footer{
+	background: #05224A;
+}
+.pie{
+     padding: 1% 0 1.5% 0;
+}
